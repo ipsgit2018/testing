@@ -1,0 +1,3 @@
+mapping_task=m_map_task
+project_name=Internal
+Description=Load Data to Snowflake
